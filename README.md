@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sharath Kumar</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/sharathk1999/sharathk1999/main/github_bg.png"> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/sharathk1999/sharathk1999/main/github-new-bg.png"> </div>
 <h3 align="center">Self-Taught Flutter Developer with a Passion for Learning and Problem-Solving.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
