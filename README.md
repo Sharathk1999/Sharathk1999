@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sharath Kumar</h1>
 <h3 align="center">Self-Taught Flutter Developer with a Passion for Learning and Problem-Solving.</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/sharathk1999/sharathk1999/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharathk1999&label=Profile%20views&color=0e75b6&style=flat" alt="sharathk1999" /> </p>
 
