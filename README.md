@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharathk1999&label=Profile%20views&color=0e75b6&style=flat" alt="sharathk1999" /> </p>
 
-- 🔭 I’m currently working on **social-media-app**
+- 🔭 I’m currently working on **Ecommerce-App**
 
 - 🌱 I’m currently learning **node.js and flutter animations**
 
